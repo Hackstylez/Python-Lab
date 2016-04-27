@@ -1,3 +1,3 @@
 # Python-Lab
-Learning Python progamming language
+Learning Python progamming language.
 Ye.
